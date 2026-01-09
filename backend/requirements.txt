@@ -1,0 +1,14 @@
+fastapi>=0.110
+uvicorn>=0.29
+
+langchain>=0.2
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+
+chromadb>=0.5
+sentence-transformers>=2.7
+python-frontmatter>=1.1
+ollama>=0.2
+
+streamlit
+requests
